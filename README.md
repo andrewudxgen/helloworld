@@ -9,3 +9,4 @@ andrew udsoftsol here and added into github
 another change for pull git command
 
 one last from git to chdck command for pull
+push this file to local branch to remove branch
